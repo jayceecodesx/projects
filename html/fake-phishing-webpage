@@ -1,0 +1,22 @@
+<!-- Warning: For educational purposes only-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Gmail - Login</title>
+  </head>
+  <body>
+    <h1>Welcome to Gmail</h1>
+    <h4> Login Here to Begin! </h4>
+    <form>
+      <label for= "email"> Email:</label> 
+      <input type= "email" id= "email" required>
+      <br><br>
+      <label for= "password"> Password:</label> 
+      <input type= "password" id= "password" required>
+     <p style= "color: red;">⚠️ For educational purposes only </p>
+      <input type= "submit" value= "Login">
+    </form>
+  </body>
+</html>
+
